@@ -1,0 +1,94 @@
+---
+title: "El trabajo en la cadena de valor de la IA y las oportunidades reales para Argentina"
+description: "Si el país quiere evitar que el empleo se limite al etiquetado precarizado para plataformas extranjeras o al montaje de galpones para data centers, la política pública es insustituible"
+date: "2026-09-07"
+author: "Juan O´Farrell"
+categories: ["Gobernanza", "Innovacación", "Adopción"]
+draft: false
+---
+
+::: blog-layout
+::: blog-content
+
+Cuando nos preguntamos por el trabajo detrás de la Inteligencia Artificial, la conversación suele quedar atrapada en una imagen distópica: la del data work o trabajo de datos. Jóvenes que etiquetan imágenes en oscuros sótanos de India, limpiando bases de datos o moderando contenido traumático, contratados por plataformas tercerizadas por sueldos de hambre. Milagros Miceli, socióloga argentina radicada en Berlín, elegida por la revista Time como una de las 100 personas más influyentes del mundo en IA, habla de este trabajo precario como “el lado oculto de la IA”, y se refiere a la explotación laboral que sostiene a las aplicaciones como ChatGPT, Claude o Gemini. A esta se suman otras imágenes, no menos preocupantes, como la de programadores desempleados, desplazados por las aplicaciones que ellos mismos desarrollaron. 
+
+En este escenario, la posibilidad de que la IA genere trabajo de calidad se ve lejana o inexistente, y todavía más para los países periféricos como Argentina. Incluso cuando esos trabajos de calidad se crean, lo más común es que se concentren en países más desarrollados, donde tienen sus sedes las grandes empresas tecnológicas. Como señala la investigadora argentina Cecilia Rikap, es mentira que por tener buenos programadores Argentina puede competir en el desarrollo de modelos, para los cuales se necesita un volumen de poder de cómputo y de datos que solo tienen unas pocas empresas globales. Para referirse a esto, Rikap habla de la “falacia de los pibes programando”. Nuestros trabajadores, igual que nuestras empresas y científicos, están limitados por un marco estructural de profunda dependencia tecnológica. Incluso cuando logran competir, lo hacen montados sobre data centers, modelos o datos propiedad de las grandes empresas tecnológicas. Esto crea según Rikap un «espejismo de los unicornios», la ilusión de que nuestras empresas tecnológicas pueden contribuir al desarrollo nacional. La autora va un paso más allá y señala que, al subirse a la cadena de explotación que favorece a las grandes tecnológicas, las empresas locales son “cómplices” de dicha explotación.  
+
+Gran parte de esto es cierto: el desarrollo de la IA se nutre de la explotación de trabajadores de datos precarizados y las empresas argentinas que logran crear trabajo vinculado a la IA dependen de la infraestructura, los datos o los modelos de las grandes tecnológicas. Sobre esto último hay excepciones (algunos desarrollos locales son armados a partir de datos propios y modelos abiertos) y también ventajas temporales (hoy las empresas locales acceden a los grandes modelos de manera subsidiada). Pero la dependencia es innegable, así como también lo son sus implicancias negativas en términos de riesgos, pérdida de autonomía y asimetría en la captura de valor. Como en otras dimensiones del boom de la IA, en las dinámicas de producción y trabajo, las razones para el pesimismo son muchas. Ahora, si aceptamos que la precarización, la automatización y la dependencia son el único destino laboral y productivo posible, la respuesta política lógica que nos queda es el ludismo o la resignación. 
+
+Abrir otras posibilidades es urgente. Diría incluso: es posible ¿Es la moderación y el etiquetado el único trabajo que sostiene y genera la IA? ¿Existen oportunidades para generar trabajo argentino de calidad en la cadena de valor de la IA? 
+
+Para entender el mapa completo de las oportunidades laborales, es mejor entender a la IA no como una tecnología aislada, sino como una cadena de valor. En un informe de [Fundar](https://fund.ar/publicacion/oportunidades-para-la-argentina-en-la-cadena-de-valor-de-la-inteligencia-artificial/) tomamos esta perspectiva y proponemos conceptualizar a la IA como un encadenamiento de tres eslabones, montados sobre una base de infraestructura física y disponibilidad de datos. En cada una de estas etapas existen dinámicas y oportunidades de empleo distintas.
+
+El primer eslabón es el más exclusivo de todos: el desarrollo de tecnologías y modelos de base; es decir, el entrenamiento de los grandes modelos fundacionales. Para competir acá no alcanza con buenos programadores, ni siquiera con equipos de doctores e investigadores de elite; se necesita un volumen masivo de datos y un poder de supercómputo inmenso, dos insumos monopolizados por pocas multinacionales. Si bien Argentina no compite a escala comercial en este segmento, sí tiene la capacidad técnica de aportar desarrollos a nivel experimental gracias a la inversión pasada en ciencia.
+
+Sobre esto, una alerta. Hoy estas capacidades están en riesgo. El desfinanciamiento universitario y científico del gobierno de La Libertad Avanza está destruyendo de forma agresiva lo que le daba una ventaja comparativa al país: el sistema de universidades públicas y centros de investigación donde se forman los matemáticos, físicos, informáticos y científicos de datos. Para ponerlo en un lenguaje afín al economicismo del gobierno: Argentina está consumiendo su stock histórico de capital humano formado durante décadas sin preocuparse por generar uno nuevo. Revertir este vaciamiento es el primer paso para mantener abierta la puerta a desarrollos soberanos en este primer nivel.
+
+Donde Argentina tiene su mayor oportunidad para generar trabajo calificado es en los siguientes pasos de la cadena. El segundo eslabón consiste en el ajuste, adaptación y mejora de modelos existentes (lo que en la jerga se conoce como fine-tuning) para resolver problemas específicos. En este terreno, los científicos de datos trabajan a la par de expertos sectoriales. Imaginemos por ejemplo algoritmos ajustados para proponer combinaciones de agroquímicos usando datos agronómicos locales, o modelos entrenados para optimizar diagnósticos en clínicas médicas. Este eslabón requiere capacidades técnicas combinadas con el conocimiento profundo de industrias donde Argentina ya es fuerte —como el agro, la biotecnología o los alimentos— o donde necesita urgentes saltos de productividad. 
+
+El tercer eslabón es la integración de estos desarrollos en software de consumo final. Se trata de empresas que fabrican aplicaciones cotidianas y utilizan la IA como una herramienta más para hacerlas más eficientes. Acá sí se destacan los programadores, desarrolladores y diseñadores de software locales, perfiles que no necesitan ser especialistas en IA profunda para generar valor y empleo bien remunerado. 
+
+Como pasa con otras actividades y tecnologías llamadas “transversales”, como la biotecnología, las posibilidades de que se desarrolle IA a nivel local aumentan si el conocimiento se orienta a resolver soluciones a problemas específicos de nuestra industria. En otras palabras, la creación de empleo en la cadena de valor de la IA depende del dinamismo de otras cadenas productivas que demanden tecnología de punta. Del mismo modo, el estado puede traccionar empleo y capacidades en IA, si asume un rol activo como usuario inteligente: adoptando soluciones de IA para modernizarse, mientras funciona como un comprador que tracciona y exige capacidades locales.
+
+Por fuera del desarrollo de modelos y aplicaciones, existe también una demanda de trabajo asociada a la infraestructura: los data centers. La instalación de un centro de datos genera un auge de empleo local en su primera fase de construcción. Sin embargo, en su etapa operativa, un data center requiere muy pocos puestos de trabajo directo. Países como Chile han diseñado políticas para que estas inversiones incluyan compromisos concretos de formación técnica local y transferencia de tecnología. Argentina, va en la dirección opuesta: instrumentos como el  [Súper RIGI](https://fund.ar/publicacion/el-super-rigi/) atraen estas inversiones sin exigir la creación de cadenas de valor locales ni garantizar aportes al ecosistema de I+D.
+
+Tenemos que ser realistas sobre un punto. El desarrollo de una cadena local de IA no va a compensar los empleos que la automatización desplace en otros sectores. El objetivo es otro: capturar trabajo calificado y estratégico para las necesidades del país. Para lograrlo hace falta una postura ofensiva, lejos del tecno optimismo ingenuo, pero abierto a identificar dónde están las ventajas reales. Si el país quiere evitar que el empleo se limite al etiquetado precarizado para plataformas extranjeras o al montaje de galpones para data centers, la política pública es insustituible. 
+
+Se habla mucho de la crisis de imaginación de futuros de la izquierda a nivel global, que afecta también al progresismo y el peronismo a nivel local. Es una crisis o desorientación que se expresa especialmente en los debates sobre la política tecnológica. El avance de grandes empresas de IA controladas por empresarios reaccionarios con fantasías transhumanistas y autoritarias (con aliados entre el empresariado y la política local) no hace más que exacerbar los sesgos conservadores y desconfianza de la tecnología que habitan el progresismo. 
+
+Está claro que hay que pensar la política de manera realista, entendiendo las limitaciones y condicionantes de la economía concentrada de la IA. Pero una postura que se agota en la denuncia de esa asimetría difícilmente logre revertirla. La dependencia tecnológica es una realidad que preocupa cada vez más a los empresarios y tecnólogos argentinos. Para ganar márgenes de autonomía necesitamos pasar a la ofensiva e imaginar de manera realista escenarios en los que trabajadores y empresas locales logran capturar valor y aportar al desarrollo.
+
+
+::: blog-source-link
+Publicado originalmente en <a href="https://cenital.com/el-trabajo-en-la-cadena-de-valor-de-la-ia-y-las-oportunidades-reales-para-argentina/">Cenital</a>
+:::
+:::
+
+::: blog-sidebar
+::: {#blog-filters .blog-filters}
+<button class="blog-filter-btn active" data-category="all">Todas</button> <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button> <button class="blog-filter-btn" data-category="Adopción">Adopción</button> <button class="blog-filter-btn" data-category="Educación">Educación</button> <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+:::
+:::
+:::
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+```
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+```
+<footer class="site-footer">
+
+<img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;"/>
+
+</footer>
