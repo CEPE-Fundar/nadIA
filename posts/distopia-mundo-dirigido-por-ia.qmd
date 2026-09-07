@@ -1,0 +1,86 @@
+---
+title: "La distopía de un mundo con empresas dirigidas por Inteligencia Artificial"
+description: "El gobierno propone la creación de empresas conformadas por agentes de IA, sin humanos, llamadas empresas agénticas. El autor analiza las posibilidades de un proyecto tan ambicioso como inquietante."
+date: "2026-06-29"
+author: "Daniel Yankelevich"
+categories: ['Gobernanza', "Innovación"]
+draft: false
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+El 21 de marzo de 1986 un paciente entró al East Texas Cancer Center en la ciudad de Tyler. Iba a aplicarse su novena dosis de radiación, como parte de un tratamiento de un tumor en la espalda. La operadora de la Therac 25, la máquina de tratamiento por radiación, preparó todo y oprimió la tecla B que daba inicio al proceso. Pero esta vez la máquina no inició con su zumbido usual: la pantalla indicaba “Error 54 - tratamiento en pausa”. El paciente sintió algo, como una descarga eléctrica en su brazo. Suspendieron la sesión, un médico revisó al paciente (pensando que había recibido una descarga eléctrica) y lo mandó a casa. Pero el paciente, en realidad, había recibido una descarga de radiación 1000 veces mayor a la prescripta. El paciente falleció 5 meses después. Hubo al menos 6 accidentes similares.
+
+El caso de la Therac 25 marcó un antes y un después para los aparatos médicos y para la ingeniería del software. En Estados Unidos, la US Food and Drug Administration (FDA) modificó las regulaciones para tratar al software como una componente clave de los aparatos médicos, exigiendo pruebas y controles adicionales y eliminando varios “atajos”. En Europa, aparecieron varias regulaciones, entre ellas la Directiva de Responsabilidad por Productos Defectuosos (actualizada recientemente con la UE 2024/2853). A nivel internacional, aparecieron varios estándares, entre ellos IEC 62304 e ISO 14971. En Argentina, desde 1994 usamos el caso en la formación de ingenieros de software en varias universidades, para analizar los diferentes tipos de riesgos y cómo enfrentarlos.
+
+Pero he aquí lo más interesante: nadie fue jamás acusado penalmente, procesado ni encarcelado por las muertes y los accidentes. la empresa se declaró en quiebra. Hubo algunos acuerdos extrajudiciales, pero jamás se supo quién había programado la máquina asesina, qué gerente había levantado los controles adicionales, ni qué ingeniero había hecho el control de calidad. Algunos pagos, quiebra, y a otra cosa. Esto ocurrió a fines de los 80, entre seres humanos, cuando nadie pensaba en software que se maneje solo, arme empresas y, en caso de que fallara, “a la quiebra y a otra cosa”. Si un humano toma una decisión que tiene consecuencias catastróficas —por ejemplo indica a su equipo que remuevan controles porque son caros y eso lleva a la muerte de personas—, tiene que hacerse cargo. Si además lo hace con intención criminal, por ejemplo arma un esquema Ponzi para robar a la gente mediante una criptomoneda, eso es dolo y tiene claras consecuencias legales. Una IA no puede tener dolo, porque no tiene intención, no es una persona. El dolo es una característica humana. Pero un agente de IA puede armar un esquema Ponzi, programa websites para ponerlo en práctica y robar sin culpa, sin responsabilidad, porque esos son atributos humanos.
+
+El gobierno propone la creación de empresas conformadas por agentes de IA, sin humanos, llamadas empresas agénticas. Imaginemos un futuro en el que empresas agénticas, sin humanos, producen galletitas y bajan sus costos hasta lo mínimo (porque es lo que hace la IA, optimiza su objetivo sin mirar nada más) y terminan intoxicando a miles de personas. A la quiebra, a otra cosa. ¿Dolo? No, porque no son humanos. ¿Juicio? Hay que demostrar que la máquina falló. Con las leyes actuales, la persona perjudicada tiene que mostrar exactamente el fallo. Dado que los modelos de IA son “cajas negras”, demostrar por qué o cómo se cometió ese fallo puede ser muy difícil. Por eso las modernas legislaciones sobre IA invierten la carga de la prueba para este tipo de casos.
+
+Hay muchos ejemplos más: la empresa agéntica enviando un pedido a otra dirección, con un agente que responde el reclamo y lo pasa a otro agente que decide que no le da lugar al reclamo. A la hora de llegar a Defensa del Consumidor ya hay 3000 reclamos más, la empresa no puede pagar, 3000 damnificados.
+
+Es posible pensar empresas agénticas que potencien la economía, nos permitan experimentar y no esfumen toda responsabilidad y humanidad. En parte, exigiendo la conformación de un directorio humano que responda por la IA y que sea responsable de establecer una serie de controles.
+
+El futuro de empresas agénticas, sin regulaciones adicionales y sin pensarlo seriamente durante 3 minutos, es una horrible distopía. Podríamos armar un concurso de cuentos de ciencia ficción sobre ese futuro, pensando todos los casos espantosos que pueden generarse y el sufrimiento que podemos evitar si pensamos mejor las mejores formas de adoptar la tecnología.
+
+
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.ambito.com/opiniones/la-distopia-un-mundo-empresas-dirigidas-inteligencia-artificial-n6285743">El Economista</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+</footer>

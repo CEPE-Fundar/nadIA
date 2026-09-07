@@ -1,0 +1,135 @@
+---
+title: "Pax Silica: Trump's Plan for an American-Led AI World (and what it implies for LAC)"
+description: "Emiliano Kargieman’s proposal for Autonomous Legal Entities (ALE) is a serious attempt to escape AI governance’s false binary: either unregulated deployment or centralized global regulation."
+date: "2026-06-08"
+author: "Eduardo Levy Yeyati"
+categories: ["Gobernanza"]
+draft: false
+---
+
+::: blog-layout
+::: blog-content
+Every “Pax” in history promised peace administered by someone. Pax Romana. Pax Britannica. Pax Americana. The peace was real; so was the administrator. Pax Silica—the Trump administration’s new architecture for the global AI economy—borrows that grammar on purpose: it promises a managed market for computing power, with the keys in a Washington vault.
+
+Launched by the State Department in December 2025, the Pax Silica Declaration lays out the scope: critical minerals, energy, advanced manufacturing, semiconductors, hardware, infrastructure, data centers, networks, software platforms and models, as well as the markets where all of it gets deployed. A subsequent State Department briefing framed the initiative as a platform for coordinating investment and policy across that stack.
+
+It began small: Japan and South Korea for chips, Australia for minerals, the UK and Israel for technology, Singapore for connectivity, Qatar and the UAE for capital and energy, and then it grew fast. In June 2026 the European Commission signed alongside new European members, and the Financial Times reported that Argentina, Chile, Costa Rica and Panama were joining too. Thirty-five countries endorsed a broader Joint Statement on AI Opportunity at the June summit; a smaller number signed Pax Silica itself.
+
+Pax Silica is the clearest signal yet of how Washington wants to organize the international AI economy.
+
+The easiest way to misread Pax Silica is as a coalition of mineral and chip suppliers feeding factories on American soil. Its aim is more ambitious: a trusted international division of labor across the full AI stack, under American direction. Previous administrations handled export controls, mineral security, telecommunications, and infrastructure as separate files. Pax Silica puts them under one roof and recruits members according to what they bring to it.
+
+Friendshoring, organized around a US-led bloc.
+
+**Controlled decentralization**
+
+Nothing in the framework requires every data center to be on US soil. Indeed, the Pax logic is the opposite: some infrastructure belongs in countries with cheap energy, available land, and fewer grid constraints than the saturated American hubs.
+
+The UAE is a case in point: it joined Pax Silica while building a multibillion-dollar data-center hub in Abu Dhabi on American technology. Washington views the UAE as a comprehensive partner across logistics, industrial capacity, and capital—the price of admission being deeper access to US chips.
+
+The Philippines is building a similar case at smaller scale. Under Pax Silica, Washington and Manila are negotiating an economic-security zone spanning minerals, manufacturing, and compute.
+
+Pax Silica, then, is compatible with offshoring compute to energy-rich partners. What it does not offer is offshoring control.
+
+My reading: Washington wants to internationalize the physical supply chain while keeping the commanding heights at home. It will offshore electricity consumption, mineral extraction, some manufacturing, even substantial compute. It will not surrender chips, cloud platforms, frontier models, intellectual property, or export permissions. The system is meant to be geographically distributed and strategically American.
+
+A few things follow from that. Washington wants a supply chain less dependent on China. It wants the American stack (chips, cloud, models) to become the coalition’s default; that’s why the State Department launched a “concierge” service to help signatories buy American AI products faster. Pax Silica is also a sales channel.
+
+Washington also wants leverage over who gets advanced compute and on what terms. Dutch chipmaker ASML shows how far that leverage can strain even close allies: the Netherlands joined Pax Silica while still resisting alignment with Washington’s export rules.
+
+In short, Washington wants to assemble the comparative advantages of its allies—minerals here, capital there, manufacturing somewhere else—without insisting every stage return to American soil.
+
+The formula: everything essential gets made inside a trusted, American-led ecosystem, with the decisions that matter staying in Washington.
+
+**What’s in it for LAC**
+
+The region has assets that are becoming more valuable by the month. It holds major reserves of copper and lithium—Chile, Peru and Argentina feature prominently in the latest USGS Mineral Commodity Summaries—and it has real energy abundance, though that abundance is badly distributed. IRENA’s 2025 statistics show renewables generating roughly 77 percent of South American electricity in 2023, against only around 20 percent in Central America and the Caribbean. One region, two energy realities.
+
+There is no single natural role for Latin America inside Pax Silica. Different economies enter through different doors: minerals, energy, manufacturing, connectivity, services, or compute itself.
+
+The more ambitious path is exporting compute, rather than gas, copper or electricity. That distinction is the whole game: hosting a data center means part of the computation happens here.
+
+This matters because AI is voracious for electricity. The IEA estimates that global data-center power demand could more than double by 2030, to roughly 945 terawatt-hours, slightly more than Japan consumes today. As grid congestion bites in saturated hubs, companies will go looking elsewhere for power, connectivity, land, and stability.
+
+A recent IDB report on the regional opportunity highlights that the industry could bring investment, specialized jobs, tax revenue and better digital infrastructure to the region, but that cheap electricity alone won’t do it. Reliable grids, transmission investment, fiber connectivity, predictable regulation, trained workers, cybersecurity, and credible environmental governance need to be in place first. As I’ve argued elsewhere, the region’s renewable advantage is nodal, not national: clean power on a continental ledger means little if it can’t reach the substation where a hyperscaler wants to break ground, which is why projects are already redirecting from Mexico, where installed capacity surged ahead of grid planning, toward Brazil and Chile.
+
+What Pax Silica could supply is the hardest constraint of all: access to advanced chips and partnerships with the companies that build on them. A data center in Latin America running on authorized US chips, American cloud architecture, and US security protocols would be, from Washington’s view, simply an offshore node in a trusted network.
+
+Economically, though, this would be a starkly different animal from selling someone else the minerals or the electricity that feed their data center.
+
+**Three roads in**
+
+Call the first extractive integration: the region supplies lithium, copper, and gas; processing, chips, data centers, models, and most of the rents stay elsewhere. This reproduces the oldest pattern in the book: participation in a booming industry, concentrated in its cheapest, most commoditized layer.
+
+Call the second infrastructure integration: countries host data centers and the associated energy, telecom, and construction investments. Chips and software stay foreign, but the region captures investment, electricity revenue, and a share of the value of running the facilities.
+
+Call the third capability-building integration: data center and cloud investments become the platform for building real regional capacity in cybersecurity, cloud management, engineering talent, model adaptation, and data governance.
+
+The second and third are obviously better. Neither follows automatically from signing a declaration.
+
+Pax Silica allows AI infrastructure outside the United States, but its local dividends are still uncertain. Can resource abundance, geography, and political goodwill be converted into something concrete: chip access and hyperscaler investment, the power and fiber to support them, and a real foothold in the higher layers of the stack (engineering, governance, standards)? Pax Silica remains more political framework than trade agreement. The substance will come, if it comes, through bilateral deals, export licenses, and individual investment decisions.
+
+This creates a real collective-action problem: countries bidding against each other with tax breaks, cheap power, and weak environmental rules for the attention of the same handful of companies, handing away the value of their own advantages in the process.
+
+While a single Latin American position is probably unrealistic, some coordination on data center standards, cross-border power integration, fiber networks, and training would still beat a country-by-country auction.
+
+Washington has no objection to Latin American data centers if they cut costs, diversify supply, and stay inside the trusted network, but it has no particular interest in making sure Latin America captures the valuable part. Latin America’s counter-pitch should be more ambitious: use natural resources to locate a meaningful share of the AI economy—and the capabilities that come with it—inside the region.
+
+The vault has more than one door. Right now, LAC stands at the loading dock, useful for what it ships in. Pax Silica does not say whether its members end up with a key or just a better contract at the dock. That’s for the region to negotiate before the architecture hardens.
+
+
+
+
+::: blog-source-link
+Publicado originalmente en <a href="https://eduardoyeyati.substack.com/p/pax-silica-trumps-plan-for-an-american">Substack</a>
+:::
+:::
+
+::: blog-sidebar
+::: {#blog-filters .blog-filters}
+<button class="blog-filter-btn active" data-category="all">Todas</button> <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button> <button class="blog-filter-btn" data-category="Adopción">Adopción</button> <button class="blog-filter-btn" data-category="Educación">Educación</button> <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+:::
+:::
+:::
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+```
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+```
+<footer class="site-footer">
+
+<img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;"/>
+
+</footer>

@@ -1,0 +1,84 @@
+---
+title: "Los robots de Milei, Sturzenegger y Asimov"
+description: "La IA de hoy no está en condiciones de dirigirnos. Otorgarle características de personas incorruptibles y objetivas sólo puede salir mal."
+date: "2026-06-29"
+author: "Daniel Yankelevich"
+categories: ['Gobernanza', "Innovación"]
+draft: false
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+
+El presidente Milei y el ministro Sturzenegger hablan de "la IA" como si fuera una persona. Eso se llama "antropomorfizar": darle características humanas a un ente que no las tiene. Es algo que está en la cabeza del observador y es difícil luchar contra eso, los humanos estamos condicionados a buscar rasgos humanos en los que nos rodea. Pasa con la IA desde ELIZA (un primer sistema muy primitivo de diálogo de los años 60s) y, curiosamente, es uno de los pocos temas en los que todos los expertos parecen coincidir: otorgarle características humanas a la IA no nos permite entender lo que está pasando. Porque la IA no es una persona. No se desanima porque "su empresa" pueda quebrar. No "razona" en términos humanos (aunque sí existe algo que podemos llamar "razonamiento de máquina", que es bastante distinto al humano). La IA no puede empatizar, no tiene valores. Sin embargo, una y otra vez, las personas que están proponiendo un cambio fundamental en el estatus de los sistemas informáticos, utilizan esas metáforas para justificar sus propuestas y no habilitan ninguna discusión con argumentos más profundos. Pensar la IA en términos humanos genera una sobreconfianza en los sistemas y aumenta las expectativas en forma irreal. Lleva a una dilución de la responsabilidad ("la IA me lo dijo"), a perpetuar sesgos y prejuicios existentes y tiene un impacto enorme en la forma de vincularnos con otros. Pero sobre todo, desplaza una discusión compleja y técnica a un ámbito familiar que nos hace creer que sabemos de qué hablamos cuando decimos que "piensan" o "razonan" o "deciden", incluso en los casos en que son "cajas negras".
+
+En la discusión sobre el estatus legal de los agentes de IA, el ministro Sturzenegger cita un cuento de Asimov. Es triste tener que aclararlo: los cerebros positrónicos de Asimov y los modelos de lenguaje actuales no son lo mismo. Así como los Supersónicos no son un buen modelo sociológico del futuro, Yo Robot no es la mejor fuente para establecer jurisprudencia sobre sistemas informáticos. Pero es cierto que la ciencia ficción muchas veces sirve para cuestionarnos lo que damos por hecho, para pensar el futuro, para experimentar con nuevos pensamientos. El cuento que cita Sturzenegger, Evidencia, se centra en la figura de Stephen Byerley, un abogado que se postula para alcalde. Sus oponentes lo acusan de ser un robot y el cuento discute cómo reconocer si lo es y a la vez si eso es importante o no para que sea un buen gobernante.
+
+Cuatro años después, Asimov escribió otro cuento con el mismo protagonista, Stephen Byerley: El conflicto evitable. En este cuento, la economía del planeta es gestionada por las Máquinas, cuatro supercomputadoras positrónicas que dictan la producción y distribución global. La economía está completamente centralizada, las Máquinas procesan una cantidad masiva de datos sobre población, recursos naturales, clima y producción para decidir qué se fabrica, dónde se envía y a qué precio. Un tecnosocialismo completo. Se elimina el hambre, el desempleo y la escasez gracias a que las computadoras son "perfectamente racionales" y carecen de intereses personales.
+
+Stephen Byerley es ya Coordinador Global y descubre que las Máquinas toman decisiones que perjudican a humanos para separarlos de puestos donde pueden a su vez tomar decisiones "no óptimas". Es muy sorprendente que el futuro al que hace referencia Sturzenegger sea una economía 100% centralizada, completamente planificada, controlada por 4 máquinas que, entre otras cosas, sabotean a los humanos que tienen visiones individualistas y que privilegian siempre el bienestar de la población general en contra de la libertad individual.
+
+Todo esto es ciencia ficción. La realidad es más descarnada: a una computadora no le importa, ni le deja de importar, la humanidad. Optimiza una función y, si para optimizar esa función tiene que hervir un conejo, pondrá agua en la olla sin dudarlo y sin malicia. Las computadoras no pueden ser honestas: la honestidad es una decisión tomada en función de ciertos valores. No pueden ser honestas porque no pueden ser deshonestas: para la IA no tiene sentido esta diferencia.
+
+La IA de hoy no está en condiciones de dirigirnos. Otorgarle características de personas incorruptibles y objetivas sólo puede salir mal.
+
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.lapoliticaonline.com/daniel-yankelevich/los-robots-de-milei-sturzenegger-y-asimov/">LPO</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+</footer>

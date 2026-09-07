@@ -1,5 +1,5 @@
 ---
-title: "Autonomous Legal Entities and the AI Opt-In Trap"
+title: "La política de la IA en el pantano"
 description: "Tres gobiernos consecutivos elaboraron planes, crearon mesas de trabajo y prometieron centros de excelencia. Ninguno lo concretó. Mientras el mundo acelera su apuesta por la inteligencia artificial y los países vecinos ejecutan políticas concretas, Argentina perfecciona el arte del anuncio."
 date: "2026-05-07"
 author: "Juan O´Farrell"
